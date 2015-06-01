@@ -1,3 +1,11 @@
+#
+# input
+#
+# 8
+# 22
+# 42
+# 
+
 import sys
 
 i = sys.stdin.readlines()

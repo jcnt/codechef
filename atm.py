@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#
+# input:
+# 80 120
+#
 
 i = raw_input().split()
 
